@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/Devon107/News-Hompage-Main](https://github.com/Devon107/News-Hompage-Main)
-- Live Site URL: [https://devon107.github.io/News-Hompage-Main/](https://devon107.github.io/News-Hompage-Main/)
+- Solution URL: [https://github.com/Devon107/result-summary-challenge](https://github.com/Devon107/result-summary-challenge)
+- Live Site URL: [https://devon107.github.io/result-summary-challenge/](https://devon107.github.io/result-summary-challenge/)
 
 ## My process
 
